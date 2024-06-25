@@ -44,10 +44,10 @@ This project is Store Managament and Custmer Shopping System with C++, OOP and D
    - Admins can view all orders placed by customers.
 
 6. **Check Amounts:**
-   - Admins can check the total sales amount and quantity sold of thier store.
+   - Admins can check the total sales amount and quantity sold of their store.
 
 7. **Sales Analysis:**
-   - Admins can analyze sales to see which products have sold the most for optimal stock managament.
+   - Admins can analyze sales to see which products have sold the most for optimal stock management.
 
 ## Files
 
