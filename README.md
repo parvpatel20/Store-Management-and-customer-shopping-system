@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is Store Managament and Custmer Shopping System with C++, OOP and Data structures. It supports functionality for both customers and admins. Customers can log in, register, shop for products, check product availability, cancel orders, and view their order history. Admins can add, remove, update, and view products, as well as view orders, check sales amounts, and analyze sales.Error handling is also done in this project and data structures are efficiently used in this project.
+This project is Store Managament and Custmer Shopping System with C++, OOP and Data structures. It supports functionality for both customers and admins. Customers can log in, register, shop for products, check product availability, cancel orders, and view their order history. Admins can add, remove, update, and view products, as well as view orders, check sales amounts, and analyze sales. Error handling is also done in this project and data structures are efficiently used in this project.
 
 ## Features
 
